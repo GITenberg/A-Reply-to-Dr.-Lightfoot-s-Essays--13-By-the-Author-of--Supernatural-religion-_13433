@@ -1,0 +1,32 @@
+_repo: A-Reply-to-Dr.-Lightfoot-s-Essays--13-By-the-Author-of--Supernatural-religion-_13433
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cassels, Walter Richard
+    alias: Cassels, Walter R.
+    birthdate: 1826
+    deathdate: 1907
+    gutenberg_agent_id: '3468'
+    url: http://www.gutenberg.org/2009/agents/3468
+    wikipedia: http://homepages.ihug.co.nz/~freethought/cassels/bio.htm
+description: ''
+gutenberg_issued: '2004-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lightfoot, Joseph Barber, 1828-1889. Essays on the work entitled Supernatural
+  religion'
+- !lcc 'BL'
+- !lcsh 'Bible. New Testament -- Criticism, interpretation, etc.'
+- !lcsh 'Miracles'
+- !lcsh 'Fathers of the church'
+title: A Reply to Dr. Lightfoot's Essays, by the Author of "Supernatural religion"
+url: http://www.gutenberg.org/ebooks/13433
