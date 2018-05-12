@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3468
     wikipedia: http://homepages.ihug.co.nz/~freethought/cassels/bio.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13433#A-Reply-to-Dr.-Lightfoot-s-Essays--13-By-the-Author-of--Supernatural-religion-
 gutenberg_issued: '2004-09-11'
 gutenberg_type: Text
 identifiers:
